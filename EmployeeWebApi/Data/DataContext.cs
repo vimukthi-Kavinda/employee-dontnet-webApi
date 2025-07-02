@@ -73,6 +73,14 @@ builder.Services.AddDbContext<DataContext>(options =>
     .OnDelete(DeleteBehavior.Cascade);
 
 
+            //unique constraint
+            modelBuilder.Entity<Project>()
+                .HasIndex(p => p.ProjectName)//unique column adding column
+                .IsUnique();// make unique
+
+            //if need required more constraint add another set - and add-migration migrationName.. Update-Database
+
+
             //seeding can be used to init data to db - on startup  like Creating admin users
 
 

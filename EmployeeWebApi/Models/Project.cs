@@ -6,6 +6,8 @@ namespace EmployeeWebApi.Models
     {
         [Key]
         public int Id { get; set; }
+
+        [Required]
         public string ProjectName { get; set; }
         public ICollection<Employee> Employees { get; set; }
 
