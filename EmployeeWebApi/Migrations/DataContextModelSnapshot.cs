@@ -106,9 +106,12 @@ namespace EmployeeWebApi.Migrations
 
                     b.Property<string>("ProjectName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ProjectName")
+                        .IsUnique();
 
                     b.ToTable("Projects");
                 });

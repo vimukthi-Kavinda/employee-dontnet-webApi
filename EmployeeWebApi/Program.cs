@@ -1,7 +1,9 @@
 //main settings
 
 using EmployeeWebApi.Data;
+using EmployeeWebApi.Interfaces;
 using EmployeeWebApi.Migrations;
+using EmployeeWebApi.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Migrations;
 
@@ -13,6 +15,10 @@ var builder = WebApplication.CreateBuilder(args);
 // add db connections and etc..
 
 builder.Services.AddControllers();
+
+//DI repos
+builder.Services.AddSingleton<IEmployeeRepository, EmployeeRepository>();
+builder.Services.AddSingleton<IProjectRepository, ProjectRepository>();
 
 //program.cs is like main class in spboot
 builder.Services.AddDbContext<DataContext>(options => { // injecting db connectoin details to dbcontext

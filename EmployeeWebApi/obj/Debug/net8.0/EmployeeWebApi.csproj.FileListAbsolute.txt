@@ -153,6 +153,7 @@ C:\Users\vimukthik\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net8.0\E
 C:\Users\vimukthik\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net8.0\EmployeeWebApi.csproj.CoreCompileInputs.cache
 C:\Users\vimukthik\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net8.0\EmployeeWebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\vimukthik\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net8.0\EmployeeWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vimukthik\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net8.0\EmployeeWebApi.sourcelink.json
 C:\Users\vimukthik\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net8.0\scopedcss\bundle\EmployeeWebApi.styles.css
 C:\Users\vimukthik\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\vimukthik\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net8.0\staticwebassets.development.json

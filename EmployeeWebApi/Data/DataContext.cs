@@ -19,12 +19,11 @@ builder.Services.AddDbContext<DataContext>(options =>
 
         //db set for entities
 
-        DbSet<Employee> Employees { get; set; }
-        DbSet<Project> Projects { get; set; }
-        DbSet<Manager> Manager { get; set; }
-        DbSet<ProjectManager> ProjectsManager { get; set; }
-
-        DbSet<Address> Address { get; set; }
+        public DbSet<Employee> Employees { get; set; }
+        public DbSet<Project> Projects { get; set; }
+        public DbSet<Manager> Manager { get; set; }
+        public DbSet<ProjectManager> ProjectsManager { get; set; }
+        public DbSet<Address> Address { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

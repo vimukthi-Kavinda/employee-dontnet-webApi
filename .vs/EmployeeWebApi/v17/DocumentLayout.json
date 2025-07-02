@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\employeewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\employeewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\migrations\\20250702050631_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\migrations\\20250702050631_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\interfaces\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\interfaces\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\models\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\models\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\interfaces\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\interfaces\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\migrations\\20250702050631_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\migrations\\20250702050631_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{283A9796-8B64-4677-9190-208B2F40D52D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\vimukthik\\source\\repos\\employeewebapi\\employeewebapi\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,21 +73,129 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:08:50.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Interfaces\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Interfaces\\IAddressRepository.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Interfaces\\IAddressRepository.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Interfaces\\IAddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:33:47.964Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20250702050631_InitialCreation.cs",
-              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Migrations\\20250702050631_InitialCreation.cs",
-              "RelativeDocumentMoniker": "EmployeeWebApi\\Migrations\\20250702050631_InitialCreation.cs",
-              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Migrations\\20250702050631_InitialCreation.cs",
-              "RelativeToolTip": "EmployeeWebApi\\Migrations\\20250702050631_InitialCreation.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAYwJQAAAAAAAAAAAAAAA==",
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Repository\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Repository\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Repository\\ProjectRepository.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Repository\\ProjectRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T05:06:32.809Z",
+              "WhenOpened": "2025-07-02T06:43:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Program.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:54:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:42:36.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Interfaces\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Interfaces\\IProjectRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:34:59.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:34:19.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Data\\DataContext.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:47:57.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImanagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Interfaces\\ImanagerRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Interfaces\\ImanagerRepository.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Interfaces\\ImanagerRepository.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Interfaces\\ImanagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:34:39.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProjectManager.cs",
               "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\ProjectManager.cs",
               "RelativeDocumentMoniker": "EmployeeWebApi\\Models\\ProjectManager.cs",
@@ -80,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "EmployeeWebApi\\appsettings.json",
@@ -88,51 +216,36 @@
               "RelativeToolTip": "EmployeeWebApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-02T03:39:52.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T03:39:52.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Program.cs",
-              "RelativeToolTip": "EmployeeWebApi\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAADwAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:54:53.794Z",
+              "WhenOpened": "2025-07-02T04:02:17.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeWebApi",
-              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\EmployeeWebApi.csproj",
-              "RelativeDocumentMoniker": "EmployeeWebApi\\EmployeeWebApi.csproj",
-              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\EmployeeWebApi.csproj",
-              "RelativeToolTip": "EmployeeWebApi\\EmployeeWebApi.csproj",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-02T03:41:03.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "EmployeeWebApi\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\Project.cs",
-              "RelativeToolTip": "EmployeeWebApi\\Models\\Project.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "20250702050631_InitialCreation.cs",
+              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Migrations\\20250702050631_InitialCreation.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Migrations\\20250702050631_InitialCreation.cs",
+              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Migrations\\20250702050631_InitialCreation.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Migrations\\20250702050631_InitialCreation.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAYwJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T04:02:21.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T05:06:32.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\Manager.cs",
               "RelativeDocumentMoniker": "EmployeeWebApi\\Models\\Manager.cs",
@@ -140,38 +253,11 @@
               "RelativeToolTip": "EmployeeWebApi\\Models\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T04:02:28.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T04:02:28.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "EmployeeWebApi\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Data\\DataContext.cs",
-              "RelativeToolTip": "EmployeeWebApi\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:59:02.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeWebApi\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\Employee.cs",
-              "RelativeToolTip": "EmployeeWebApi\\Models\\Employee.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T04:02:17.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\vimukthik\\source\\repos\\EmployeeWebApi\\EmployeeWebApi\\Models\\Address.cs",
               "RelativeDocumentMoniker": "EmployeeWebApi\\Models\\Address.cs",
@@ -179,12 +265,7 @@
               "RelativeToolTip": "EmployeeWebApi\\Models\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T04:02:13.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-07-02T04:02:13.223Z"
             }
           ]
         }
